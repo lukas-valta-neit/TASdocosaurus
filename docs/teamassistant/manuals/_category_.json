@@ -1,0 +1,8 @@
+{
+  "label": "Manuály",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+    "description": "Manuály dané instance TASu"
+  }
+}

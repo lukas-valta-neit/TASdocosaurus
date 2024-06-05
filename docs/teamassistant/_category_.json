@@ -1,0 +1,10 @@
+{
+  "label": "Team Assistant - Uživatelé",
+  "collapsible": false,
+  "collapsed": false,
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Dokumentace pro uživatele Team Assistantu"
+  }
+}

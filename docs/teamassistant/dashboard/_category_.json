@@ -1,0 +1,8 @@
+{
+  "label": "Dashboard",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Dashboard reprezentuje výchozí stránku, kde uživatel najde dashboard s definovanými kontejnery "
+  }
+}

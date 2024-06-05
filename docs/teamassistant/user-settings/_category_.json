@@ -1,0 +1,8 @@
+{
+  "label": "Uživatelské nastavení",
+  "position": 8,
+  "link": {
+    "type": "generated-index",
+    "description": "Aplikační nastavení uživatele, možnost úprav a odhlášení se"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "Přehledy",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Přehled je seznam případů procesu podle filtrů a dalších definovaných parametrů"
+  }
+}

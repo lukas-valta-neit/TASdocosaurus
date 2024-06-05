@@ -1,0 +1,10 @@
+{
+  "label": "Docosaurus - Dokumentace",
+  "collapsible": false,
+  "collapsed": false,
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Případ reprezentuje proces, který se skláda z dílčích částí Úkoly"
+  }
+}

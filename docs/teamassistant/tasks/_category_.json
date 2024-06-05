@@ -1,0 +1,8 @@
+{
+  "label": "Úkoly",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Úkol je dílčí části procesu, ve které má uživatel nebo skupina uživatelů přiřazen úkol k řešení"
+  }
+}
