@@ -23,10 +23,7 @@ Team Assistant (TAS) je komplexní nástroj pro správu podnikových procesů na
 
 ## Navigace dokumentaci
 Pro efektivní práci v aplikaci Team Assistant je třeba mít povědomí o několika základních pojmech, které popisují hlavní entity, s nimiž tato aplikace operuje. Tyto pojmy jsou:
-- [Dashboard](/cs/manuals/end-user/navigation) Domů reprezentuje výchozí stránku, kde uživatel najde dashboard s definovanými kontejnery    
-- [Úkoly](/cs/manuals/end-user/tasks) Úkol je dílčí části procesu, ve které má uživatel nebo skupina uživatelů přiřazen úkol k řešení 
-- [Případy](/cs/manuals/end-user/cases) Případ reprezentuje proces, který se skláda z dílčích částí "Úkoly"  
-- [Přehledy](/cs/manuals/end-user/overviews) Přehled je seznam případů procesu podle filtrů a dalších definovaných parametrů
-- [Dokumenty](/cs/manuals/end-user/documents) Všechny dokumenty na platformě s jejich revizemi a náležícími atributy      
-- [Manuály](/cs/manuals/end-user/manuals) Manuály dané instance TASu
-- [Nastavení uživatele](/cs/manuals/end-user/user-settings) Aplikační nastavení uživatele, možnost úprav a odhlášení se
+- [Dashboard](/docs/category/dashboard) Domů reprezentuje výchozí stránku, kde uživatel najde dashboard s definovanými kontejnery    
+- [Úkoly](/docs/tasks) Úkol je dílčí části procesu, ve které má uživatel nebo skupina uživatelů přiřazen úkol k řešení 
+- [Případy](/docs/cases) Případ reprezentuje proces, který se skláda z dílčích částí "Úkoly"  
+- [Přehledy](/docs/overviews) Přehled je seznam případů procesu podle filtrů a dalších definovaných parametrů

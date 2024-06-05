@@ -6,16 +6,12 @@ const config: Config = {
   title: "Teamassistant",
   tagline: "Jedno prostředí nekonečné možnosti digitalizace procesů.",
   favicon: "img/favicon.ico",
-
-  // Set the production url of your site here
-  url: "https://your-docusaurus-site.example.com",
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/",
+  url: 'https://tasdocosaurus.netlify.app', // Url to your site with no trailing slash
+  baseUrl: '/', 
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "facebook", // Usually your GitHub org/user name.
+  organizationName: "TeamAssistant", // Usually your GitHub org/user name.
   projectName: "docusaurus", // Usually your repo name.
 
   onBrokenLinks: "throw",
@@ -24,10 +20,7 @@ const config: Config = {
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
-  // i18n: {
-  //   defaultLocale: "cs",
-  //   locales: ["cs"],
-  // },
+
 
   presets: [
     [

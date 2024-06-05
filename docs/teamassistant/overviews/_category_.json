@@ -3,6 +3,7 @@
   "position": 5,
   "link": {
     "type": "generated-index",
+    "slug": "overviews",
     "description": "Přehled je seznam případů procesu podle filtrů a dalších definovaných parametrů"
   }
 }

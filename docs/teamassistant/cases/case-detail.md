@@ -65,7 +65,7 @@ Proklik na nadřazený případ, dostupné pouze pokud je aktuální případ ř
 
 ### Změna entity (dostupné pouze pro administrátora)
 
-Možnosti změny případu ze Servisních operaci, které jsou popsané [zde](/cs/manuals/admin/servis-operations)
+Možnosti změny případu ze Servisních operaci, které jsou popsané 
 
 ## Událost
 
@@ -77,7 +77,7 @@ Informace k případu jsou dostupné v 2. hlavičce obrazovky.
 
 ## Logy (dostupné pouze pro administrátora)
 
-Logy případu, které obsahují jak informace o průběhu případu, tak případné errory a upozornění. Více informaci naleznete [zde](/cs/manuals/admin/logs)
+Logy případu, které obsahují jak informace o průběhu případu, tak případné errory a upozornění. Více informaci naleznete 
 
 ## Aktuální úkoly
 
@@ -113,7 +113,7 @@ Kontak na řešitele úkolu
 
 Možnost úpravy časování řešení úkolu
 
-## Dokumenty (více najdete v sekci "[Dokumenty](/cs/manuals/end-user/documents)")
+## Dokumenty více najdete v sekci Dokumenty
 
 Po kliknutí na Dokumenty je zobrazen rychlý náhled seznamu dokumentů případu s možností hledání, akce na každém dokumentu, přidaní nového souboru nebo otevření rozšířeného módu dokumentu.
 

@@ -2,6 +2,7 @@
   "label": "Případy",
   "position": 4,
   "link": {
+    "slug": "cases",
     "type": "generated-index",
     "description": "Případ reprezentuje proces, který se skláda z dílčích částí Úkoly"
   }
